@@ -1,0 +1,26 @@
+PODS:
+  - LookinServer (1.1.5):
+    - LookinServer/Core (= 1.1.5)
+  - LookinServer/Core (1.1.5)
+  - SnapKit (5.6.0)
+  - SwiftEntryKit (2.0.0)
+
+DEPENDENCIES:
+  - LookinServer
+  - SnapKit
+  - SwiftEntryKit
+
+SPEC REPOS:
+  trunk:
+    - LookinServer
+    - SnapKit
+    - SwiftEntryKit
+
+SPEC CHECKSUMS:
+  LookinServer: 2893f2bae53cbf3fd49bbe1a8ea1745582ef1317
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  SwiftEntryKit: 61b5fa36f34a97dd8013e48a7345bc4c4720be9a
+
+PODFILE CHECKSUM: 8ab1574f1007901dfd1b3d7481f49b73e1b9e53f
+
+COCOAPODS: 1.11.3
